@@ -59,8 +59,8 @@ GOLLISGPT is designed as a client-side web application, meaning setup is incredi
 To give you a glimpse of how GOLLISGPT operates, here is an interactive walkthrough and the visual layout of the system.
 
 ### 🌟 System Video Demonstration
-*(Watch the WebP video to see the UI navigation, dynamic layout transitions, and interface responsivenes.)*
-![GOLLISGPT System Demo](demo_video.webp)
+*(Watch the full recorded video of the system presentation demonstrating all features. The video is approximately 28 minutes long.)*
+[**Watch the Full GOLLISGPT System Presentation Video Here**](https://drive.google.com/file/d/1DhsR8KavZrRVcw3Y2GMJQsIvdbTkrBg5/view?usp=sharing)
 
 ### 🖼️ System Interface Screenshot
 *(A 100% full-screen view of the application running smoothly in the browser.)*
