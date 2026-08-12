@@ -23,14 +23,14 @@ GOLLISGPT serves as a multifaceted digital assistant, meticulously architected w
 
 This project has been collaboratively built and successfully presented by the following team members (Group 1):
 
-- **Abdifatah Ali odowa**
-- **Saalim Ahmed ibraahim**
-- **Cabdiqani Maxamuud muuse**
-- **Axmed Xasan Axmed**
-- **Mohamed Abdirashiid hussein**
-- **Mohamed Mohamuud Yuusuf**
-- **Nagiib Ahmed Yuusuf**
-- **Mohamed Abdirahmaan ahmed**
+1. **Abdifatah Ali odowa**
+2. **Saalim Ahmed ibraahim**
+3. **Cabdiqani Maxamuud muuse**
+4. **Axmed Xasan Axmed**
+5. **Mohamed Abdirashiid hussein**
+6. **Mohamed Mohamuud Yuusuf**
+7. **Nagiib Ahmed Yuusuf**
+8. **Mohamed Abdirahmaan ahmed**
 
 ---
 
